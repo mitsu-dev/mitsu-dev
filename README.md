@@ -2,7 +2,7 @@
   Introduction section
 -->
 
-🎏 アストロヘックス
+🎏 マドハヴァン
 <h1 align="center">I'm madhavan ! 🛰️ </h1>
 
 <p align="center">
